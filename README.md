@@ -173,6 +173,4 @@ Potential improvements include:
 
 
 ```
-
-This version deliberately avoids claiming specific accuracy scores or preprocessing techniques that I could not verify from the repository page.
 ```
